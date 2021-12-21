@@ -1,6 +1,6 @@
 /* eslint-disable no-return-assign */
 
-// Source: https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true
+// Source: https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true
 import sockMerchant from './sockMerchant';
 
 function main() {
